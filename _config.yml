@@ -63,10 +63,10 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: 8ba7e091781281d9bc1f
-  clientSecret: a6b9328eb2abce9a74841d198bee7cc1a69d92fe
-  repo: motukii.github.io
-  owner: motukii
+  clientID: <8ba7e091781281d9bc1f>
+  clientSecret: <a6b9328eb2abce9a74841d198bee7cc1a69d92fe>
+  repo: <motukii.github.io>
+  owner: <motukii>
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 
